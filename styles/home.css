@@ -106,6 +106,7 @@
 
 .mail-image{
   width: 10%;
+  margin-top: 2px;
 }
 
 
@@ -123,6 +124,11 @@
   .image-title{
     font-size: 5vw;
   }
+  .progress p {
+
+    font-size: 3.5vw;
+  }
+
   
 }
 
@@ -139,6 +145,11 @@
   }
   .image-title{
     font-size: 5vw;
+  }
+
+  .progress p {
+
+    font-size: 3vw;
   }
 
   
@@ -158,6 +169,11 @@
   }
   .image-title{
     font-size: 5vw;
+  }
+
+  .progress p {
+
+    font-size: 2vw;
   }
 
   
